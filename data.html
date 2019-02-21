@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html>                     <!--<![endif]-->
+
+<head> 
+  <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- while under development -->
+  <meta name =”robots” content=”noindex,nofollow”>
+
+  <link rel="stylesheet" href="https://opensandiego.github.io/css/main.css">
+  <script src="https://use.typekit.net/lkd6vsz.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+ <!-- Make sure you put this AFTER Leaflet's CSS -->
+
+<style>
+
+#mapid { 
+    height: 100%;
+    width: 100%; 
+}
+
+.navbar {
+    /* z-index: 1000;*/
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #333;
+}
+.data-title {
+    color: #eee;
+    font: fixed-width; font-size: 20px;
+    text-align: bottom;
+}
+div.taco-icon {
+    background: none;
+    border: none;
+    font-size: 20px;
+}
+
+</style>
+
+
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+    <script src="{{'/js/selectivizr-min-1.0.2.js' | prepend: site.baseurl | prepend: site.url}}"></script>
+  <![endif]-->
+</head>
+
+<body>
+    <nav class="navbar navbar-fixed-top dark shadow-lg p-1 px-2">
+        <a href="/" class="logo text-dark">
+            <img height="20" src="https://opensandiego.github.io/media/images/opensandiego-logo-color.png" alt="Open San Diego" />
+            <span class="data-title">data</span>
+    </a>
+
+        <div class="right text-light">
+            <div class="dropdown">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="fa fa-map"></i>
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </div>
+        </div>
+    </nav>
+
+     <div id="mapid">
+    </div>
+    
+ <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.core.min.js"></script>
+<script>
+
+var map = L.map('mapid').setView([32.7139337,-117.1625655], 11);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar', attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'}).addTo(map);
+
+var geojsonFeatures = _.map(tacos,function(o){
+    return {
+        "type":"Feature",
+        "properties": {
+            "name": o.name,
+            "amenity":"restaurant",
+            "data": o
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                o.coordinates.longitude,
+                o.coordinates.latitude
+            ]
+        }
+    }
+});
+console.log(geojsonFeatures);
+
+var _geojsonFeature = {
+    "type": "Feature",
+    "properties": {
+        "name": "Tecolote Canyon",
+        "amenity":"restaurant",
+        "cuisine":"mexian",
+        "custom":"shredded-beef"
+    },
+    "geometry": {
+        "type": "Point", 
+        "coordinates": [
+            -117.179525,
+            32.7989505
+        ]
+    }
+};
+
+// TODO load with ajax
+
+var tacoIcon = L.divIcon({html:"🌮", className: 'taco-icon'});
+
+function onEachFeature(feature, layer) {
+    var popupContent = "<p>" + feature.properties.name + "</p>";
+    layer.bindPopup(popupContent);
+}
+
+L.geoJSON(geojsonFeatures, {
+    onEachFeature: onEachFeature,
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: tacoIcon});
+    }
+}).addTo(map);
+
+
+</script>
+
+</body>
