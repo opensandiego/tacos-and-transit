@@ -1,0 +1,32 @@
+How to setup / run
+
+This project is currently setup around building within a Python 3 Virtualenv.
+
+Instructions are currently unix-style command-line based (bash).
+
+1. Install Python 3.7
+
+https://wiki.python.org/moin/BeginnersGuide/Download
+
+2. Install Virtualenv
+
+https://virtualenv.pypa.io/en/latest/installation/
+
+3. Clone Tacos-And-Transit Source code
+
+TODO
+
+4. Create a virtualenv
+
+> cd /path/to/cloned/repo
+> virtualenv .
+
+5. Activate virtualenv and install requirements
+
+> source bin/activate
+> pip install -r requirements
+
+6. Run scripts
+
+TODO
+

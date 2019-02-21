@@ -1,0 +1,8 @@
+bin
+includes
+*.pyc
+.Python
+lib
+data
+pip-selfcheck.json
+yelp_keys.json
