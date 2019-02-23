@@ -28,5 +28,21 @@ TODO
 
 6. Run scripts
 
-TODO
+# create a directory for the data to end up in
+> mkdir data
+
+# then you can run a script
+> python scripts/overpass_turbo_taco_stands.py
+
+Note: The yelp script requires yelp keys:
+
+https://www.yelp.com/developers/documentation/v3/get_started
+https://www.yelp.com/developers/documentation/v3/authentication
+
+7. Run UI
+
+(with the virtualenv active)
+> python -m http.serve
+> open http://localhost:8000
+
 

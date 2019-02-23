@@ -17,6 +17,11 @@ Status:
 -------
 Prototype / Exploration
 
+Setup:
+------
+
+Pleaes review INSTALL.txt
+
 Features:
 ---------
 
