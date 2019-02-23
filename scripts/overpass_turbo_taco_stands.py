@@ -34,9 +34,26 @@ TARGET_URL = "http://overpass-api.de/api/interpreter"
 def query_taco_restaurants():
     resp = requests.post(TARGET_URL,data={"data":QUERY_XML})
     if resp.status_code != 200:
-        print resp,resp.content
+        print(resp,resp.content)
     return resp.json()
 
 if __name__=="__main__":
     obj = query_taco_restaurants()
-    print json.dumps(obj,indent=1)
+    features = []
+    for o in obj["elements"]:
+        if "tags" in o and "name" in o["tags"] and "lon" in o:
+            f = {
+                "type":"Feature",
+                "properties": dict( [(k,v) for k,v in o["tags"].items()] ),
+                "geometry":{
+                    "type": "Point",
+                    "coordinates": [ o["lon"],o["lat"] ],
+                }
+            }
+            features.append(f)  
+    f = open("data/tacos.json","w")
+    f.write(json.dumps(features,indent=1))
+    f.close()
+    print("Wrote %i features to tacos.json" % len(features) )
+
+

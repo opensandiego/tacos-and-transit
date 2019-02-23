@@ -2,7 +2,10 @@ import requests
 from urllib import parse
 import json
 
-YELP_KEYS = json.loads(open("yelp_keys.json").read())
+try:
+    YELP_KEYS = json.loads(open("yelp_keys.json").read())
+except IOError:
+    print("Please create a file called yelp_keys.json and add to it: {\"api_key\":\"<yourkey>\"}")
 
 # https://www.yelp.com/developers/documentation/v3/business_search
 
@@ -33,23 +36,25 @@ def get_taco_stands():
     while q(i,businesses) != None:
         i += 1 
 
-    # Score
-    transit_stop_coords = [t["geometry"]["coordinates"] for t in json.loads(open("data/transit_stops_datasd.json").read())]
-    # CONSIDER boost based on stop_agency? Wheelchair  
-
+    features = []
     for b in businesses:
-        # geojson likes long first..
         b_coord = [b["coordinates"]["longitude"],b["coordinates"]["latitude"]]
-        # TODO score based on cumulative distance of nearby stops .. math maybe numpy?
-        score = 1.0
-        b["score"] = score
+        f = {
+            "type":"Feature",
+            "properties": {
+                "name": b["name"],
+                "amenity":"restaurant",
+                "cuisine":"mexian",
+            },
+            "geometry": {
+                "type":"Point",
+                "coordinates": b_coord,
+            }
+        }
+        features.append(f)
 
-    for b in businesses:
-        print(b["name"]),score
-
-    print("%i taco shops" % len(businesses))
-    f = open("tacos.json","w")
-    f.write(json.dumps(businesses,indent=1))
+    f = open("data/tacos.json","w")
+    f.write(json.dumps(features,indent=1))
     f.close()
 
 if __name__=="__main__":
