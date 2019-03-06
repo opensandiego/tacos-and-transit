@@ -1,5 +1,5 @@
 bin
-includes
+include
 *.pyc
 .Python
 lib
