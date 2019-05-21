@@ -1,0 +1,2049 @@
+{
+    "businesses": [
+        {
+            "alias": "casa-machado-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8127463641505,
+                "longitude": -117.141326581159
+            },
+            "display_phone": "(858) 292-4716",
+            "distance": 799.9295739926772,
+            "id": "O4r43qZXZu4BR6xHKxUsxw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JyUSp49lHdoR299ottAiQg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3750 John J Montgomery Dr",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3750 John J Montgomery Dr",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "Casa Machado",
+            "phone": "+18582924716",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 322,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/casa-machado-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "lolitas-mexican-food-san-diego-5",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.832264,
+                "longitude": -117.160599
+            },
+            "display_phone": "(858) 874-7983",
+            "distance": 3575.9812688680518,
+            "id": "8gtS-ugNXvM90hZgqjIWiw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sAhyjWjAeomptRnNXQidFQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7305 Clairemont Mesa Blvd",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "7305 Clairemont Mesa Blvd",
+                    "Ste A",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Lolita's Mexican Food",
+            "phone": "+18588747983",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 2270,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lolitas-mexican-food-san-diego-5?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "la-fuente-mexican-food-san-diego-3",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.810269,
+                "longitude": -117.140389
+            },
+            "display_phone": "(858) 569-0801",
+            "distance": 623.5497252100374,
+            "id": "PlAyQLJqS3wfmYzTjUUUYA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gs0nrGyuZnXnae1-vgcx0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8690 Aero Dr",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "8690 Aero Dr",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "La Fuente Mexican Food",
+            "phone": "+18585690801",
+            "price": "$$",
+            "rating": 3.5,
+            "review_count": 312,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/la-fuente-mexican-food-san-diego-3?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "mauricios-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.830537,
+                "longitude": -117.139153
+            },
+            "display_phone": "(858) 505-9051",
+            "distance": 2414.471705271523,
+            "id": "Uo52TKWFOrrlnc14gVnqcw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QYWNAq8zXLDNsEOgDLYyQQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5375 Kearny Villa Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "5375 Kearny Villa Rd",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "Mauricio's",
+            "phone": "+18585059051",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 136,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mauricios-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "california-burritos-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.79333,
+                "longitude": -117.15598
+            },
+            "display_phone": "(858) 569-1600",
+            "distance": 2722.8855047601783,
+            "id": "xsm2uqj58l8QTqHxRgbMHQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DsdYoaSwKuxUhiULyoRQrw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7754 Starling Dr",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "7754 Starling Dr",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "California Burritos",
+            "phone": "+18585691600",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 718,
+            "transactions": [
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/california-burritos-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "las-panchitas-fresh-mexican-grill-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8082291369159,
+                "longitude": -117.160630822289
+            },
+            "display_phone": "(858) 874-6710",
+            "distance": 2508.524540029881,
+            "id": "B52EkpFK0GVtiJd17qokzA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VOZ8ZWlvuVdyz_Kl8minEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3542 Ashford St",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3542 Ashford St",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Las Panchitas Fresh Mexican Grill",
+            "phone": "+18588746710",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 156,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/las-panchitas-fresh-mexican-grill-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "vallarta-express-mexican-eatery-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.821346282959,
+                "longitude": -117.182472229004
+            },
+            "display_phone": "(858) 569-6945",
+            "distance": 4752.876649560189,
+            "id": "bCDi6bD9bCISqFZ3OyDbOg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/16XW_DoIgg6fm6PBCkL1yg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4277 Genesee Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4277 Genesee Ave",
+                    "San Diego, CA 92117"
+                ],
+                "state": "CA",
+                "zip_code": "92117"
+            },
+            "name": "Vallarta Express Mexican Eatery",
+            "phone": "+18585696945",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 1215,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vallarta-express-mexican-eatery-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "la-puerta-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7110023498535,
+                "longitude": -117.161323547363
+            },
+            "display_phone": "(619) 696-3466",
+            "distance": 11208.533690584216,
+            "id": "mzLGnmpwtrIgUeplJtmOOw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uBzIRvcpIug3tRS6CavE8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "560 4th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "560 4th Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "La Puerta",
+            "phone": "+16196963466",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 3469,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/la-puerta-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "emilianos-mexican-restaurant-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7939,
+                "longitude": -117.09816
+            },
+            "display_phone": "(619) 284-2460",
+            "distance": 3785.273617328932,
+            "id": "EyEJur_GJxXry9QBGP8NpQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R4PhdC_DQC214lg8PFySgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6690 Mission Gorge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "6690 Mission Gorge Rd",
+                    "San Diego, CA 92120"
+                ],
+                "state": "CA",
+                "zip_code": "92120"
+            },
+            "name": "Emiliano's Mexican Restaurant",
+            "phone": "+16192842460",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 356,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/emilianos-mexican-restaurant-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "crack-taco-shop-san-diego",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7803100019414,
+                "longitude": -117.103043161333
+            },
+            "display_phone": "",
+            "distance": 4319.722918504455,
+            "id": "L2Bhgxgt6CCUZuisKXbJmg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RrQ6NVld2zdtSvaSsQKU5g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4242 Camino Del Rio N",
+                "address2": "Ste 28",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4242 Camino Del Rio N",
+                    "Ste 28",
+                    "San Diego, CA 92108"
+                ],
+                "state": "CA",
+                "zip_code": "92108"
+            },
+            "name": "CRACK Taco Shop",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/crack-taco-shop-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "ponces-mexican-restaurant-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7634312168435,
+                "longitude": -117.108215567666
+            },
+            "display_phone": "(619) 282-4413",
+            "distance": 5633.1125773918475,
+            "id": "wFl8oyege66SxWSCItg86Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SKMo-GW7vX8IZ8ur0EmorA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4050 Adams Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4050 Adams Ave",
+                    "San Diego, CA 92116"
+                ],
+                "state": "CA",
+                "zip_code": "92116"
+            },
+            "name": "Ponce's Mexican Restaurant",
+            "phone": "+16192824413",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 1186,
+            "transactions": [
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/ponces-mexican-restaurant-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "the-taco-stand-la-jolla",
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8393664861151,
+                "longitude": -117.276808878945
+            },
+            "display_phone": "(858) 551-6666",
+            "distance": 13773.278350772363,
+            "id": "dBtZR2CB8PVxndyF6K2wAQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iovVv7Xp_hlFGMXq2AJ_-A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "621 Pearl St",
+                "address2": null,
+                "address3": "",
+                "city": "La Jolla",
+                "country": "US",
+                "display_address": [
+                    "621 Pearl St",
+                    "La Jolla, CA 92037"
+                ],
+                "state": "CA",
+                "zip_code": "92037"
+            },
+            "name": "The Taco Stand",
+            "phone": "+18585516666",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 2756,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/the-taco-stand-la-jolla?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "las-cuatro-milpas-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.701811283077,
+                "longitude": -117.145149104369
+            },
+            "display_phone": "(619) 234-4460",
+            "distance": 11998.035189930924,
+            "id": "43BHmEbS7eBRxC7MFnqv7Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FO2K895XPJQ2JmRekZEuBA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1875 Logan Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1875 Logan Ave",
+                    "San Diego, CA 92113"
+                ],
+                "state": "CA",
+                "zip_code": "92113"
+            },
+            "name": "Las Cuatro Milpas",
+            "phone": "+16192344460",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 1906,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/las-cuatro-milpas-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "el-zarape-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.76179,
+                "longitude": -117.14663
+            },
+            "display_phone": "(619) 692-1652",
+            "distance": 5410.520407532315,
+            "id": "zCP7tTuUPkw9PeiyOp8FTw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EPobUj5VxgVFYpaE4uknHg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4642 Park Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4642 Park Blvd",
+                    "San Diego, CA 92116"
+                ],
+                "state": "CA",
+                "zip_code": "92116"
+            },
+            "name": "El Zarape",
+            "phone": "+16196921652",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 2590,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-zarape-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "chile-peppers-mexican-eatery-tierrasanta-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8231151,
+                "longitude": -117.1035175
+            },
+            "display_phone": "(858) 503-6750",
+            "distance": 3216.050622403847,
+            "id": "k0C4UEEvUyNt9mSWA9I-jw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/20GDUsZGqza0SsJYr1kH-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10425 Tierrasanta Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "10425 Tierrasanta Blvd",
+                    "San Diego, CA 92124"
+                ],
+                "state": "CA",
+                "zip_code": "92124"
+            },
+            "name": "Chile Peppers Mexican Eatery - Tierrasanta",
+            "phone": "+18585036750",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 171,
+            "transactions": [
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/chile-peppers-mexican-eatery-tierrasanta-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "maritzas-mexican-food-restaurant-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8074153261934,
+                "longitude": -117.18348261393
+            },
+            "display_phone": "(858) 279-8866",
+            "distance": 4646.118750422617,
+            "id": "IFSEy6J-0Ob5cwkr65SqPQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X1NNsH2sJZcysMcSxbuR1g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3582 Mount Acadia Blvd",
+                "address2": "Ste D",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3582 Mount Acadia Blvd",
+                    "Ste D",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Maritza's Mexican Food Restaurant",
+            "phone": "+18582798866",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 273,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/maritzas-mexican-food-restaurant-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "puesto-la-jolla-la-jolla-4",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8469845,
+                "longitude": -117.2738202
+            },
+            "display_phone": "(858) 454-1260",
+            "distance": 13736.346098844935,
+            "id": "9cZzWOr80AnZvdEu1V7G7g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KtTkCNqop21Fm-vtS_l8Mg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1026 Wall St",
+                "address2": "",
+                "address3": "",
+                "city": "La Jolla",
+                "country": "US",
+                "display_address": [
+                    "1026 Wall St",
+                    "La Jolla, CA 92037"
+                ],
+                "state": "CA",
+                "zip_code": "92037"
+            },
+            "name": "Puesto La Jolla",
+            "phone": "+18584541260",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 2166,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/puesto-la-jolla-la-jolla-4?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "cotixan-mexican-and-seafood-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8227199,
+                "longitude": -117.1843
+            },
+            "display_phone": "(858) 571-8843",
+            "distance": 4968.42673803457,
+            "id": "iWGFw9fUuirL631fI95uKA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2qLaPQWdYOINTV3LZITbQw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4370 Genesee Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4370 Genesee Ave",
+                    "San Diego, CA 92117"
+                ],
+                "state": "CA",
+                "zip_code": "92117"
+            },
+            "name": "Cotixan Mexican & Seafood",
+            "phone": "+18585718843",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 733,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cotixan-mexican-and-seafood-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "chuys-taco-shop-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.76743,
+                "longitude": -117.05517
+            },
+            "display_phone": "(619) 469-7777",
+            "distance": 8715.837780240056,
+            "id": "33Pt6j__dIkO2nLzrj3HLw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fevj0mWa_-4OlaPXOy9RPw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6663 El Cajon Blvd",
+                "address2": "Ste G",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "6663 El Cajon Blvd",
+                    "Ste G",
+                    "San Diego, CA 92115"
+                ],
+                "state": "CA",
+                "zip_code": "92115"
+            },
+            "name": "Chuy's Taco Shop",
+            "phone": "+16194697777",
+            "price": "$",
+            "rating": 5.0,
+            "review_count": 408,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/chuys-taco-shop-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "palominos-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8142300009585,
+                "longitude": -117.154061794281
+            },
+            "display_phone": "(858) 279-4025",
+            "distance": 1969.8679342793685,
+            "id": "qzssMez1vOzt1u775IIe-g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3SKeopQOuGNRpuwdXceQRg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3860 Convoy St",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3860 Convoy St",
+                    "Ste 101",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Palominos",
+            "phone": "+18582794025",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 131,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/palominos-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "harvest-taco-shop-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8324794774932,
+                "longitude": -117.127305940545
+            },
+            "display_phone": "(858) 277-6614",
+            "distance": 2649.318395101405,
+            "id": "jo7hb5AoKJo1Q8TnKJEG1w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lsU8h5JTAUffFWWcUlpCYw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9350 Clairemont Mesa Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "9350 Clairemont Mesa Blvd",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "Harvest Taco Shop",
+            "phone": "+18582776614",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 269,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/harvest-taco-shop-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "lucha-libre-gourmet-taco-shop-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.743229,
+                "longitude": -117.181628
+            },
+            "display_phone": "(619) 296-8226",
+            "distance": 8598.72837891751,
+            "id": "EGj92CH6mWFiRvHB1zyMAw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EILgi4r2VxSSxtD_t3XBEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1810 W Washington St",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1810 W Washington St",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Lucha Libre Gourmet Taco Shop",
+            "phone": "+16192968226",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 7393,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lucha-libre-gourmet-taco-shop-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "super-cocina-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7495,
+                "longitude": -117.11485
+            },
+            "display_phone": "(619) 584-6244",
+            "distance": 6879.520661283615,
+            "id": "ZffC3bgTNJOTAIkUakPi9w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QElDAJfWIKJYZItn1oJqMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3627 University Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3627 University Ave",
+                    "San Diego, CA 92104"
+                ],
+                "state": "CA",
+                "zip_code": "92104"
+            },
+            "name": "Super Cocina",
+            "phone": "+16195846244",
+            "price": "$$",
+            "rating": 4.5,
+            "review_count": 610,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/super-cocina-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "calis-and-fries-san-diego",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8317489624023,
+                "longitude": -117.121040344238
+            },
+            "display_phone": "(858) 279-7733",
+            "distance": 2726.690246685598,
+            "id": "7ynGOTsVyp_62wQgzCFY8w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CrnEjpp86jS-Z67XYwuqnA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5150 Murphy Canyon Rd",
+                "address2": "Ste 109",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "5150 Murphy Canyon Rd",
+                    "Ste 109",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "Cali's & Fries",
+            "phone": "+18582797733",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 78,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/calis-and-fries-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "sonora-express-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8085,
+                "longitude": -117.11641
+            },
+            "display_phone": "(619) 938-5622",
+            "distance": 1620.1968979705123,
+            "id": "-fX1BlgZpP_IOJHoxxS0IQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0Ltl3JqUXta3LkvlalKz0g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3690 Murphy Canyon Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3690 Murphy Canyon Rd",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "Sonora Express",
+            "phone": "+16199385622",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 83,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/sonora-express-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "el-rancho-santee-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8364139846117,
+                "longitude": -117.02265627042
+            },
+            "display_phone": "(619) 312-2800",
+            "distance": 10816.334995952451,
+            "id": "1u3C3Z3XUwSS-FP7kRXzAg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b047G68lFs0bVdm5rPB6EA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8001 Mission Gorge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Santee",
+                "country": "US",
+                "display_address": [
+                    "8001 Mission Gorge Rd",
+                    "Santee, CA 92071"
+                ],
+                "state": "CA",
+                "zip_code": "92071"
+            },
+            "name": "El Rancho",
+            "phone": "+16193122800",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 256,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-rancho-santee-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "picante-taqueria-mexican-grill-san-diego-6",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.79329,
+                "longitude": -117.0982
+            },
+            "display_phone": "(619) 358-9198",
+            "distance": 3760.5063698428585,
+            "id": "whcQ3JRgfX-CJ-f3LQxDtw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y1yVGO3csbBai9Q4K6f-Ig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6620 Mission Gorge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "6620 Mission Gorge Rd",
+                    "San Diego, CA 92120"
+                ],
+                "state": "CA",
+                "zip_code": "92120"
+            },
+            "name": "Picante Taqueria Mexican Grill",
+            "phone": "+16193589198",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 185,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/picante-taqueria-mexican-grill-san-diego-6?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "yesenias-mexican-and-seafood-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.832246,
+                "longitude": -117.14647
+            },
+            "display_phone": "(858) 277-1304",
+            "distance": 2812.958033544221,
+            "id": "ISeji4yC_lhc04wqRC6j0Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2pPH1ZWA2agd6aJB9KNBSQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8199 Clairemont Mesa Blvd",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "8199 Clairemont Mesa Blvd",
+                    "Ste C",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Yesenia's Mexican and Seafood",
+            "phone": "+18582771304",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 153,
+            "transactions": [
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/yesenias-mexican-and-seafood-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "lupes-mexican-eatery-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8012747770419,
+                "longitude": -117.157816924791
+            },
+            "display_phone": "(858) 292-4067",
+            "distance": 2357.621921193559,
+            "id": "nR-vajlrKz0xPFqROagBtQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J2RIFgDooRv4MLM5PkaPFQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7621 Linda Vista Rd 101",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "7621 Linda Vista Rd 101",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Lupe's Mexican Eatery",
+            "phone": "+18582924067",
+            "price": "$",
+            "rating": 3.5,
+            "review_count": 589,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/lupes-mexican-eatery-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "carmens-authentic-mexican-food-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.83512,
+                "longitude": -117.18682
+            },
+            "display_phone": "(858) 292-6018",
+            "distance": 5732.030594295738,
+            "id": "BqEHjORF84qEGBPugKg6zA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hOprae6ov91sYHVejYQlYA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4937 Diane Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4937 Diane Ave",
+                    "San Diego, CA 92117"
+                ],
+                "state": "CA",
+                "zip_code": "92117"
+            },
+            "name": "Carmen's Authentic Mexican Food",
+            "phone": "+18582926018",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 364,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "el-comal-san-diego-3",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7493532733275,
+                "longitude": -117.127943676358
+            },
+            "display_phone": "(619) 294-8292",
+            "distance": 6687.338933325589,
+            "id": "XSH4aMmPtNEIfDEOYABkFw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5dH9QRtVFrikU8kW534cJQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3946 Illinois St",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3946 Illinois St",
+                    "San Diego, CA 92104"
+                ],
+                "state": "CA",
+                "zip_code": "92104"
+            },
+            "name": "El Comal",
+            "phone": "+16192948292",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 933,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/el-comal-san-diego-3?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "la-vecindad-san-diego-2",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7476563,
+                "longitude": -117.1602513
+            },
+            "display_phone": "(619) 501-2885",
+            "distance": 7293.499907830579,
+            "id": "c2iFpIROV9OVK3wd24J0Tw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y6A_h6SpE8WA1oCgDhQyPw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3827 5th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3827 5th Ave",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "La Vecindad",
+            "phone": "+16195012885",
+            "price": "$$",
+            "rating": 4.5,
+            "review_count": 836,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-vecindad-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "gualbertos-2-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.832706451416,
+                "longitude": -117.138336181641
+            },
+            "display_phone": "(858) 268-3209",
+            "distance": 2648.6428491407596,
+            "id": "EZowSIIMci44VuSN9RtlIA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/c9QKHEqfJ6SwG_RCQcUPfA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5447 Kearny Villa Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "5447 Kearny Villa Rd",
+                    "San Diego, CA 92123"
+                ],
+                "state": "CA",
+                "zip_code": "92123"
+            },
+            "name": "Gualberto's 2",
+            "phone": "+18582683209",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 73,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gualbertos-2-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "cantina-mayahuel-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7630765754619,
+                "longitude": -117.130507320454
+            },
+            "display_phone": "(619) 283-6292",
+            "distance": 5148.099410224348,
+            "id": "iUvrQyDNVE80bA6-mBnJyA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MMZENZfcmrASYg2Lg1OjpA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2934 Adams Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2934 Adams Ave",
+                    "San Diego, CA 92116"
+                ],
+                "state": "CA",
+                "zip_code": "92116"
+            },
+            "name": "Cantina Mayahuel",
+            "phone": "+16192836292",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 772,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cantina-mayahuel-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "cocina-35-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7202896932569,
+                "longitude": -117.159230396319
+            },
+            "display_phone": "(619) 431-5611",
+            "distance": 10176.547013803216,
+            "id": "fMWoLTioV_ttwKX90bSL1Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H9W5Tg14pPXXVMVNmmdIpA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1435 6th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1435 6th Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Cocina 35",
+            "phone": "+16194315611",
+            "price": "$$",
+            "rating": 4.5,
+            "review_count": 739,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/cocina-35-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "colimas-mexican-food-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7484933286905,
+                "longitude": -117.13985145092
+            },
+            "display_phone": "(619) 297-2715",
+            "distance": 6770.077471309493,
+            "id": "A0NML2LFOchQilzFA8JRzQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OLg7APeE7hnktFc_X1kUug/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2302 University Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2302 University Ave",
+                    "San Diego, CA 92104"
+                ],
+                "state": "CA",
+                "zip_code": "92104"
+            },
+            "name": "Colima's Mexican Food",
+            "phone": "+16192972715",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 952,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/colimas-mexican-food-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "tahona-bar-san-diego",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "food",
+                    "title": "Food"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.75176,
+                "longitude": -117.19335
+            },
+            "display_phone": "(619) 255-2090",
+            "distance": 8479.601458082107,
+            "id": "lqTbsbZTD0HrlMe-PvxdJA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Is70bWYUNUwcdH9fJh02bQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2414 San Diego Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2414 San Diego Ave",
+                    "San Diego, CA 92110"
+                ],
+                "state": "CA",
+                "zip_code": "92110"
+            },
+            "name": "Tahona Bar",
+            "phone": "+16192552090",
+            "rating": 4.5,
+            "review_count": 100,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tahona-bar-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "ortegas-bistro-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7480807767565,
+                "longitude": -117.163241931283
+            },
+            "display_phone": "(619) 692-4200",
+            "distance": 7341.063950113064,
+            "id": "yeUrPbgYzfSC2YKRv9N-LA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iOnzgqf_v_0haEtgd999kw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "141 University Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "141 University Ave",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Ortega's Bistro",
+            "phone": "+16196924200",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 976,
+            "transactions": [
+                "pickup",
+                "restaurant_reservation",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/ortegas-bistro-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "rigobertos-taco-shop-san-diego-2",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.87994,
+                "longitude": -117.16208
+            },
+            "display_phone": "(858) 271-0170",
+            "distance": 8262.988320922253,
+            "id": "1xNYUQqnSKcQPxN-sApuIQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6UqhhD8VxeLmS0Cvh658-A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7094 Miramar Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "7094 Miramar Rd",
+                    "San Diego, CA 92121"
+                ],
+                "state": "CA",
+                "zip_code": "92121"
+            },
+            "name": "Rigoberto's Taco Shop",
+            "phone": "+18582710170",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 758,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "blanco-tacos-tequila-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7676040375976,
+                "longitude": -117.165709049087
+            },
+            "display_phone": "(619) 810-2931",
+            "distance": 5511.169262942437,
+            "id": "yxzofSsDC3IqWvBszd5PZw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7zbodI1U4HzSUnW5l12awA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7007 Friars Rd",
+                "address2": "Ste 901",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "7007 Friars Rd",
+                    "Ste 901",
+                    "San Diego, CA 92108"
+                ],
+                "state": "CA",
+                "zip_code": "92108"
+            },
+            "name": "Blanco Tacos + Tequila",
+            "phone": "+16198102931",
+            "price": "$$",
+            "rating": 4.5,
+            "review_count": 189,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blanco-tacos-tequila-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "miguels-cocina-coronado",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.6825195,
+                "longitude": -117.1776206
+            },
+            "display_phone": "(619) 437-4237",
+            "distance": 14679.47233249712,
+            "id": "jnAltBsrZBxces7jD9lu-Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lsHQHikCWsUG0QI9Pw7KOA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1351 Orange Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Coronado",
+                "country": "US",
+                "display_address": [
+                    "1351 Orange Ave",
+                    "Coronado, CA 92118"
+                ],
+                "state": "CA",
+                "zip_code": "92118"
+            },
+            "name": "Miguel's Cocina",
+            "phone": "+16194374237",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 1673,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/miguels-cocina-coronado?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "ranchos-cocina-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74885,
+                "longitude": -117.1305
+            },
+            "display_phone": "(619) 574-1288",
+            "distance": 6736.982620966771,
+            "id": "kgICubCTkvEQla-Pd3tiMA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/34SsU65YRa0NP_lax6X7Yg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3910 30th St",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3910 30th St",
+                    "San Diego, CA 92104"
+                ],
+                "state": "CA",
+                "zip_code": "92104"
+            },
+            "name": "Ranchos Cocina",
+            "phone": "+16195741288",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 1324,
+            "transactions": [
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/ranchos-cocina-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "sayulitas-mexican-food-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.911013,
+                "longitude": -117.147459872067
+            },
+            "display_phone": "(858) 537-9326",
+            "distance": 11382.511115240359,
+            "id": "wOvC4Qb2CWuStQnB4Lc6og",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/12TpSYhPrdEWOIujmyA7rA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8155 Mira Mesa Blvd",
+                "address2": "Ste 6",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "8155 Mira Mesa Blvd",
+                    "Ste 6",
+                    "San Diego, CA 92126"
+                ],
+                "state": "CA",
+                "zip_code": "92126"
+            },
+            "name": "Sayulita's Mexican Food",
+            "phone": "+18585379326",
+            "price": "$",
+            "rating": 3.5,
+            "review_count": 315,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/sayulitas-mexican-food-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "trujillos-taco-shop-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.771373,
+                "longitude": -117.069488
+            },
+            "display_phone": "(619) 583-4182",
+            "distance": 7344.30001306709,
+            "id": "FXnEqQynYqDQLPE3NdrQMg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g3_m-ej5kfMHFOiMTLQ6Qw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5119 College Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "5119 College Ave",
+                    "San Diego, CA 92115"
+                ],
+                "state": "CA",
+                "zip_code": "92115"
+            },
+            "name": "Trujillo's Taco Shop",
+            "phone": "+16195834182",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 595,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/trujillos-taco-shop-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "cafe-coyote-san-diego-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.752281,
+                "longitude": -117.194211
+            },
+            "display_phone": "(619) 291-4695",
+            "distance": 8488.866551657848,
+            "id": "mTjKTc3SYz3ZmevLDUs7Lw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zr41031V7w-K0GbMkdWY4g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2461 San Diego Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2461 San Diego Ave",
+                    "San Diego, CA 92110"
+                ],
+                "state": "CA",
+                "zip_code": "92110"
+            },
+            "name": "Cafe Coyote",
+            "phone": "+16192914695",
+            "price": "$$",
+            "rating": 3.5,
+            "review_count": 4613,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cafe-coyote-san-diego-2?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "casa-guadalajara-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.75689,
+                "longitude": -117.19807
+            },
+            "display_phone": "(619) 295-5111",
+            "distance": 8375.809769171916,
+            "id": "ix7cpqUC1Dk3BVeyGv_RFw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ovz1R40xyBakjVq6EQcovw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4105 Taylor St",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4105 Taylor St",
+                    "San Diego, CA 92110"
+                ],
+                "state": "CA",
+                "zip_code": "92110"
+            },
+            "name": "Casa Guadalajara",
+            "phone": "+16192955111",
+            "price": "$$",
+            "rating": 3.5,
+            "review_count": 2132,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/casa-guadalajara-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "king-and-queen-cantina-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.720773,
+                "longitude": -117.1693471
+            },
+            "display_phone": "(619) 756-7864",
+            "distance": 10388.198244092604,
+            "id": "48IFYYRKXAlCn1JbCV3_bA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aBroSEvdQyRCvcUctXYkRQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1490 Kettner Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1490 Kettner Blvd",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "King and Queen Cantina",
+            "phone": "+16197567864",
+            "price": "$$",
+            "rating": 4.5,
+            "review_count": 1179,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/king-and-queen-cantina-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "la-perla-cocina-mexicana-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7982481,
+                "longitude": -117.2563848
+            },
+            "display_phone": "(858) 274-3038",
+            "distance": 11520.928837859401,
+            "id": "kiOIwpD1hVTr289Zt80AfA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5RO0YIPRytOqenBXslbjYA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "745 Emerald St",
+                "address2": "",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "745 Emerald St",
+                    "San Diego, CA 92109"
+                ],
+                "state": "CA",
+                "zip_code": "92109"
+            },
+            "name": "La Perla Cocina Mexicana",
+            "phone": "+18582743038",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 597,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "jvs-mexican-food-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.76875,
+                "longitude": -117.20021
+            },
+            "display_phone": "(619) 276-0758",
+            "distance": 7688.490684694835,
+            "id": "nFpDRtlF6eDASynCmMCnfQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zpF_R8T6q_c18yIkrr1SjQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1112 Morena Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1112 Morena Blvd",
+                    "San Diego, CA 92110"
+                ],
+                "state": "CA",
+                "zip_code": "92110"
+            },
+            "name": "JV's Mexican Food",
+            "phone": "+16192760758",
+            "price": "$",
+            "rating": 4.0,
+            "review_count": 1162,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jvs-mexican-food-san-diego?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        },
+        {
+            "alias": "oscars-mexican-seafood-san-diego-3",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.808189,
+                "longitude": -117.260846
+            },
+            "display_phone": "(858) 488-6392",
+            "distance": 11872.232097483862,
+            "id": "ssJJPFuV6tTDgHYe2w9csQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nmtXm16znYiTmTIP5MQdBA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "703 Turquoise St",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "703 Turquoise St",
+                    "San Diego, CA 92109"
+                ],
+                "state": "CA",
+                "zip_code": "92109"
+            },
+            "name": "Oscar's Mexican Seafood",
+            "phone": "+18584886392",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 2584,
+            "transactions": [
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/oscars-mexican-seafood-san-diego-3?adjust_creative=Rz_SWuLI3iYHTIfJ4zz-5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Rz_SWuLI3iYHTIfJ4zz-5g"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.8092908,
+            "longitude": -117.1338192
+        }
+    },
+    "total": 3600
+}

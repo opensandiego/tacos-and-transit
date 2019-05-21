@@ -31,6 +31,8 @@ search = api_host + search_path
 #Performing API get
 response = requests.get(search,params=url_params,headers=headers)
 
-#Passing list of businesses retrieved from yelp
-businesses = response.json()['businesses']
+json_file = json.dumps(response.json(),sort_keys=True, indent=4)
+
+with open('businesses_kearny_mesa.json','w') as file:
+    file.write(json_file)
 
